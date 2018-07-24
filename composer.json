@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.3",
+        "myclabs/php-enum": "^1.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "PriceParser\\": "src/"
+        }
+    }
+}
